@@ -1,0 +1,7 @@
+
+First Name = Tina
+Last Name = Rahimah
+Phone = 6281392003038
+Email = usadaeva@dillimasti.com
+Point = 300
+=============================================

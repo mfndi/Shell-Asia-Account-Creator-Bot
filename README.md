@@ -4,6 +4,8 @@ Create account shell asia and get 300 Points for redeem voucher shell
 !!!!!GUNAKAN SIMCARD FISIK!!!!!
 <br>
 Auto set fristname, lastname, device id, email
+<br>
+auto save result acc.txt
 
 <pre>
 <li>Voucher Shell 20RB</li>
